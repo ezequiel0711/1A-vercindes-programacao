@@ -1,0 +1,28 @@
+body{
+    background-color:darkmagenta;
+}
+h1{
+    color:red(255, 57, 57);
+    font: size 40%;
+    text-align:cernter;
+}
+p{
+    color:black;
+    font size:40%;
+    text-align: center;}
+
+#imagem1{
+    width:100%;
+    height:20%;
+    border: 2px solid black;
+}
+.items{
+    font-style:italic;
+    text-align:left;
+    font-size: 25px;
+}
+.beneficios{
+    background-color:white;
+    font-size: 25px;
+    
+}
